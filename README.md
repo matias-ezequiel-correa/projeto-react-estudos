@@ -3,7 +3,7 @@
 * Um desafio para aprimorar e consolidar os conhecimentos e habilidades adquiridos no estudo de REACT. 
 
 ## Design:
-<img height="400em" src="./src/design/projeto-react-video.gif" alt="Projeto React - Design">
+[<p align="center"><img height="500em" src="./src/design/projeto-react-video.gif" alt="Projeto React - Design">]("")<p>
 
 ## Instruções para executar o projeto:
 1. Abrir o terminal
