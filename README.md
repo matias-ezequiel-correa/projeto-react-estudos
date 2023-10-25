@@ -1,4 +1,4 @@
-# PROJETO com REACT  | Estudo 💻📚
+# PROJETO com REACT  | Estudos 💻📚
 
 * Um desafio para aprimorar e consolidar os conhecimentos e habilidades adquiridos no estudo de REACT. 
 
